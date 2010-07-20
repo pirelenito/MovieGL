@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/jogl/jogl.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/Users/paulo/Development/aprendendo/Java/MovieGL/lib/jogl/docs/"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="MovieGL/lib/jogl"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jogl/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="lib/jmf/jmf.jar" sourcepath="lib/jmf/src"/>
+	<classpathentry kind="lib" path="lib/jmf/fobs4jmf.jar" sourcepath="lib/jmf/src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="MovieGL/lib/jmf"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
