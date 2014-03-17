@@ -2,8 +2,6 @@
 
 This is a simple application that tests OpenGL movie playback with Java.
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/-zh6yDyasSo" frameborder="0" allowfullscreen></iframe>
-
 **Important:** I no longer maintain this code, so use at your own will.
 
 ## Dependencies
