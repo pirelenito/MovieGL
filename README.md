@@ -2,6 +2,8 @@
 
 This is a simple application that tests OpenGL movie playback with Java.
 
+You can check it working in [this YouTube video](http://www.youtube.com/watch?v=-zh6yDyasSo);
+
 **Important:** I no longer maintain this code, so use at your own will.
 
 ## Dependencies
